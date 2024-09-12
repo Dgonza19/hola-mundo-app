@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Message from './Components/Message'
+import Message from './components/Message'
 
 function App() {
 
